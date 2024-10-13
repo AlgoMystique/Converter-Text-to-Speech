@@ -1,6 +1,6 @@
 # Converter-Text-to-Speech
 
-A test to speech converter created using HTML,CSS &amp; Javascript
+A text to speech converter created using HTML,CSS &amp; Javascript
 
 ![Quiz Screenshot](images/screenshot.png)
 
