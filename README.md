@@ -1,4 +1,4 @@
-# Converter-Text-to-Speech
+# Speechify
 
 A text to speech converter created using HTML,CSS &amp; Javascript
 
