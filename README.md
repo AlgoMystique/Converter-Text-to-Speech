@@ -25,7 +25,7 @@ Enter Text: Type the text you want to convert to speech in the text box.
 
 Choose a Voice: Select a voice from the available list (if supported by the browser).
 
-Click "Speak": Hit the "Speak" button to hear the text you entered.
+Click "Listen": Hit the "Listen" button to hear the text you entered.
 
 ## Technologies Used
 
